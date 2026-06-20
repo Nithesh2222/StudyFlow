@@ -24,16 +24,16 @@ Students do not fall behind for lack of time. They lose momentum to the daily ov
 ## Screenshots
 
 **Dashboard**
-![StudyFlow dashboard](screenshots/studyflow-dashboard.png)
+![StudyFlow dashboard](studyflow-dashboard.png)
 
 **Weekly plan**
-![StudyFlow weekly plan](screenshots/studyflow-plan.png)
+![StudyFlow weekly plan](studyflow-plan.png)
 
 **Focus timer**
-![StudyFlow focus timer](screenshots/studyflow-focus.png)
+![StudyFlow focus timer](studyflow-focus.png)
 
 **Progress insights**
-![StudyFlow stats](screenshots/studyflow-stats.png)
+![StudyFlow stats](studyflow-stats.png)
 
 ## A note on the "AI"
 
